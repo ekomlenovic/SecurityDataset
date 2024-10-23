@@ -37,3 +37,14 @@ Dropped columns :
 'claimmode',
 'hostkidoutcome',
 'country'
+
+
+# DATE PREPROCESSING
+
+Conversion of the columns : "iday", "imonth", "iyear" => "begin_date" of type Datetime
+
+"resolution", "extended" have been compressed into "end_date"
+=> If the event doesn't last for more than 24 hour, end_date == begin_date
+
+col "approxdate" have been dropped
+
