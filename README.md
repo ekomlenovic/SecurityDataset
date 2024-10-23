@@ -9,3 +9,31 @@
 ```bash
     conda env create -f environment.yml
 ```
+
+
+## Dataset preprocessing :
+
+Dropped columns : 
+'alternative',
+'region', 
+'attacktype1', 
+'attacktype2', 
+'attacktype3', 
+'weaptype1', 
+'weapsubtype1', 
+'weapsubtype3', 
+'weaptype4', 
+'weapsubtype4', 
+'targtype1', 
+'targsubtype1', 
+'natlty1', 
+'targtype2', 
+'targsubtype2', 
+'natlty2', 
+'targtype3',  
+'targsubtype3', 
+'natlty3',
+'propextent',
+'claimmode',
+'hostkidoutcome',
+'country'
