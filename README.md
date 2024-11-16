@@ -10,3 +10,5 @@
     conda env create -f environment.yml
 ```
 ### Report
+
+Report is available in the `report` folder. The report is written in LaTeX and the pdf is available in the `report` folder with the name `report.pdf`.
