@@ -1,4 +1,4 @@
-# SECUTIRY DATA ANALYSIS
+# SECURITY DATA ANALYSIS
 
 ## Requirements  
 - [Python 3.11](https://www.python.org/downloads/release/python-31110/)
