@@ -69,4 +69,32 @@ Dropped columns filled with natural language that isn't label encodable as we wo
 
 
 # Variable correlation
-Crit1/Target Abortion related
+Target Military => All 3 criterion
+Crit 3 => Claim Letter
+ishostkid => Attack type kidnapping
+
+Attack hijacking => Target maritime & aéroport
+
+Infrastructure => Abortion_related
+we 
+
+
+# Clustering analysis
+
+Kmodes 
+=> Cluster 1 seems related to bombing attacks
+=> Cluster 2 armed assaults on police and military
+=> Cluster 3 Armed assault on citizens & properties
+
+KMeans
+=> Cluster 1 : Attacks armed/ kidnapping on citizens
+=> Cluster 2 : Bombing on citizen & property
+=> Cluster 3 : Bombing on police more suicide / Probably for intimidation
+
+Agglo
+=> Cluster 1 : Attacks of all kinds on citizens (assassination, kidnapping, armed assault)
+=> Cluster 2 : Bombing attacks
+=> Cluster 3 : Armed/Bombing attacks on the police
+
+
+DBScan to much clusters to make interpretations
