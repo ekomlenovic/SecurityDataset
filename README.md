@@ -63,3 +63,7 @@ As we're not searching for US related analysis, we won't exploit these columns
 ## Natural Language columns
 
 Dropped columns filled with natural language that isn't label encodable as we won't exploit them
+
+
+# Variable correlation
+Crit1/Target Abortion related
